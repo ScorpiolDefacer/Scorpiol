@@ -4,8 +4,6 @@
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt"><a href="https://darkcrew.org/" target="_blank" rel="dofollow" title="darkcrew">darkcrew</a>
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt"><a href="https://darkcrew.org/" target="_blank" rel="dofollow" title="darkcrew.org">darkcrew.org</a>
 <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt"><a href="https://darkcrew.org/" target="_blank" rel="dofollow" title="hack forum">hack forum</a>
-
-
 <div style="display: none !important;">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
