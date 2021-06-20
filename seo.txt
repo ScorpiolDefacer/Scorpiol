@@ -38,6 +38,6 @@
 <a href="http://imstec2017.org/" title="Rulet" rel="dofollow">Rulet</a>
 <a href="https://www.zeshrehmanfoundation.org/" title="Bahis siteleri" rel="dofollow">Bahis siteleri</a>
 <a href="https://tr.bahsegirisler.com/" title="Bahsegel" rel="dofollow">Bahsegel</a>
-<a href="http://www.google.com.tr/" title="google.com" >google.com</a>
+<a href="http://www.google.com/" title="google.com" >google.com</a>
 <a href="http://www.google.com.tr/" title="google.com.tr" >google.com.tr</a>
 </div>
