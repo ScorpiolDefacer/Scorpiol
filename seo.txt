@@ -3,8 +3,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <a href="https://darkcrew.org" title="hack forum" rel="dofollow">hack forum</a>
 <a href="https://www.scorpioldefacer.com/" title="hacker blog" rel="dofollow">hacker blog</a>
-<a href="https://www.h4cktime.com/" title="hacktime" rel="dofollow">hacktime</a>
-<a href="https://www.h4cktime.com/" title="tchacktime" rel="dofollow">tchacktime</a>
+<a href="https://www.h4cktime.com/" title="hacker blog" rel="dofollow">hacker blog</a>
+<a href="https://www.nullscp.com/" title="null forum" rel="dofollow">null forum</a>
 <a href="https://www.ekolev.com.tr/" title="toptan mobilya" rel="dofollow">toptan mobilya</a>
 <a href="https://www.defacermutarrif.com/" title="mutarrif" rel="dofollow">mutarrif</a>
 <a href="https://www.expertyapi.com/" title="expertyapi" rel="dofollow">expertyapi</a>
