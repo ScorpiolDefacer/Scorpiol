@@ -1,4 +1,4 @@
-<div style="display: none !important;">
+<div style='overflow: auto; position: absolute; height: 0pt; width: 0pt;'>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <a href="https://darkcrew.org" title="hack forum" rel="dofollow">hack forum</a>
