@@ -28,6 +28,7 @@
 <a href="https://camiisupurgesi.com/" title="Cami Süpürgesi" >Cami Süpürgesi</a>
 <a href="https://www.seboege.com/" title="Cami Süpürgesi" >Cami Süpürgesi</a>
 <a href="https://www.turkuazcamihalisi.com" title="cami halısı" >cami halısı</a>
+<a href="https://www.istanbulevdenevenakliyati.com" title="evden eve nakliyat" >evden eve nakliyat</a>
 <a href="https://www.saricahali.com.tr/" title="cami halısı" >cami halısı</a>
 <a href="https://www.istanbulofistasima.net/" title="ofis taıma" >ofis taşıma</a>
 <a href="https://www.yurticievdenevenakliye.com" title="yurtiçi evden eve nakliyat" >yurtiçi evden eve nakliyat</a>
@@ -50,5 +51,4 @@
 <a href="https://realcasinoslive.com/" title="Canlı Casino >Canlı Casino</a>
 <a href="https://paykasakartlari.com" title="Paykwik" >Paykwik</a>
 <a href="https://begenisistemleri.com" title="facebook beğeni hilesi">facebook beğeni hilesi</a>
-<a href="https://kayseriotopazarlama1.com/" title="Kayseri Escort" rel="dofollow">Kayseri Escort</a>
 </div>
