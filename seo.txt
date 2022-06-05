@@ -8,4 +8,6 @@
 <a href="https://www.birfit.com/" title="diyetisyen" rel="dofollow">diyetisyen</a>
 <a href="https://www.nullscp.com/" title="null forum" rel="dofollow">null forum</a>
 <a href="https://hackzzers.com/" title="hack forum" rel="dofollow">hack forum</a>
+<a href="https://www.sanalnews.org/" title="hack haber" rel="dofollow">hack haber</a>
+<a href="https://www.shellzzers.com/" title="logsuz shell" rel="dofollow">logsuz shell</a>
 </div>
