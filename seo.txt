@@ -1,1 +1,8 @@
-<iframe src="https://scorpioldefacer.github.io/index/" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+<div style='overflow: auto; position: absolute; height: 0pt; width: 0pt;'>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<a href='https://www.secureoptimize.com.tr/' rel='dofollow' title='Sunucu Optimizasyon'>Sunucu Optimizasyon</a>
+<a href='https://www.sonmezz.com.tr/' rel='dofollow' title='sonmez'>sonmez</a>
+<a href='https://xhost.tr/' rel='dofollow' title='vds kirala'>vds kirala</a>
+<a href='https://xhost.tr/' rel='dofollow' title='ryzen vds'>ryzen vds</a>
+</div>
