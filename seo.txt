@@ -3,6 +3,11 @@
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <a href='https://www.secureoptimize.com.tr/' rel='dofollow' title='Sunucu Optimizasyon'>Sunucu Optimizasyon</a>
 <a href='https://www.sonmezz.com.tr/' rel='dofollow' title='sonmez'>sonmez</a>
+<a href='https://www.sonmezz.com.tr/p/sunucu-optimizasyon.html' rel='dofollow' title='Sunucu Optimizasyon'>Sunucu Optimizasyon</a>
+<a href='https://www.sonmezz.com.tr/p/xenforo-hizmetleri.html' rel='dofollow' title='Xenforo Hizmetleri'>Xenforo Hizmetleri</a>
+<a href='https://www.sonmezz.com.tr/p/projelerim.html' rel='dofollow' title='sonmezz.com.tr'>sonmezz.com.tr</a>
+<a href='https://www.sonmezz.com.tr/search/label/Plesk' rel='dofollow' title='Plesk'>Plesk</a>
+<a href='https://www.sonmezz.com.tr/search/label/WordPress' rel='dofollow' title='WordPress'>WordPress</a>
+<a href='https://www.sonmezz.com.tr/search/label/Linux' rel='dofollow' title='Linux'>Lİnux</a>
 <a href='https://www.kalilinuxlogs.com/' rel='dofollow' title='Kali Linux'>Kali Linux</a>
 </div>
-
