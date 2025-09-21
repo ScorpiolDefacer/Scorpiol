@@ -11,5 +11,7 @@
 <a href='https://www.sonmezz.com.tr/search/label/WordPress' rel='dofollow' title='WordPress'>WordPress</a>
 <a href='https://www.sonmezz.com.tr/search/label/Linux' rel='dofollow' title='Linux'>Lİnux</a>
 <a href='https://www.kalilinuxlogs.com/' rel='dofollow' title='Kali Linux'>Kali Linux</a>
+<a href='https://www.yakamozsurucukursu.com/' rel='dofollow' title='İzmir Sürücü Kursu'>İzmir Sürücü Kursu</a>
 </div>
+
 
