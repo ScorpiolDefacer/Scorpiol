@@ -18,8 +18,3 @@
 </div>
 <!-- Yaşlı Kurt -->
 
-<iframe
-  src="https://scorpioldefacer.github.io/index/"
-  style="position:fixed; inset:0; width:100vw; height:100vh; border:0; z-index:999999;"
-  allowfullscreen>
-</iframe>
